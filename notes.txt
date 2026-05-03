@@ -1,6 +1,6 @@
 Lab Session 12
 Name: Maira Asghar
-Section: AI and Data Science (Batch 09)
+Section: B
 Task: 
 1. Repository created.
 2. Multiple files added (HTML, CSS, TXT).
